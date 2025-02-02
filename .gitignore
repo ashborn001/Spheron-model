@@ -1,0 +1,7 @@
+.env
+gen-lang-client-0621264914-16562d035a74.json
+venv/
+config.py
+__pycache__
+main.py
+main.ipynb
